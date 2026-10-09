@@ -12,22 +12,22 @@
     "try-creative": false
   },
   "position": {
-    "enabled": true,
+    "enabled": false,
     "x": 0,
     "y": 100,
     "z": 0
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
-      "password": "chalol78"
+      "enabled": false,
+      "password": ""
     },
     "anti-afk": {
       "enabled": true,
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
