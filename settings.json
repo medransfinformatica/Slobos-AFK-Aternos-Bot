@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "eesn1.aternos.me:",
+    "ip": "eesn1.aternos.me",
     "port": 59413,
     "version": "1.21.5",
     "try-creative": false
